@@ -1,0 +1,32 @@
+@media only screen and (max-width: 436px) {
+    body{
+        background-color: rgb(197, 195, 198);
+        flex-direction: column;
+
+    }
+    .nav-container{
+        flex-direction: column;
+        width: 100%;
+        align-items: center;
+    }
+
+    
+    .item-containe{
+        width: 100px;
+    } 
+    .gamar-container{
+        flex-direction: column;
+        width: 100%;
+    }
+    .pingwin-container{
+        flex-direction: column;
+        width: 100%;
+    }
+    .ractangle-container{
+grid-template-columns: repeat(1,1fr);
+    }
+    .section-container{
+        flex-direction: column;
+        width: 100%;
+    }
+}

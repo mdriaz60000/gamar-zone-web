@@ -36,7 +36,7 @@ width: 50%;
  font-size: 40px; 
 }
 
-.nav-item-container{
+logo-container{
     width: 50%;
     display: flex;
     justify-content: space-evenly; 
@@ -88,6 +88,12 @@ font-weight: 800;
     font-weight: 500;
   }
 /* 3d */
+.btn-primary{
+  background-color: orange;
+  border-radius: 20%;
+  border: 1px solid red;
+}
+
 .pingwin-container{
   display: flex;
 }
