@@ -116,3 +116,22 @@ font-weight: 400;
   grid-template-columns: repeat(4, 1fr);
   margin: 0px 100px;
 }
+.section-container{
+  display: flex;
+}
+.section-title{
+  margin: 100px;
+  width: 50%;
+}
+.section-img{
+
+}
+.ract{
+
+}
+.rex{
+  width: 150px; 
+  height: 150px;
+  position: relative;
+  
+}
